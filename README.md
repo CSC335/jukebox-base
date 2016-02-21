@@ -1,2 +1,1 @@
-# jukebox-base
-Project 4 Jukebox
+# Project 4 Jukebox
